@@ -1,7 +1,7 @@
 ## Table of Contents
-- [Initial setup commands](#Initial_setup_commands)
-- [S3 commands](#s3_commands)
-- [Secret Manager Commands](#usage)
+- [Initial setup commands](#initial-setup-commands)
+- [S3 commands](#s3-commands)
+- [Secret Manager Commands](#secret-manager-commands)
 
 ## Initial setup commands
 ```
